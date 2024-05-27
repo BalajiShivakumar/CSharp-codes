@@ -177,15 +177,4 @@ static void ChildMethod(string child1, string child2, string child3)
 ChildMethod(child3: "John", child1: "Liam", child2: "Liam");
 
 
-static int MultipleMethod(int a, int b)
-{
-    return a + b;
-}
 
-static double MultipleMethod(int a, int b)
-{
-    return a + b;
-}
-
-int Method2 = MultipleMethod(12, 13);
-double Method2 = MultipleMethod(12.98, 24.67);

@@ -1,25 +1,28 @@
 ﻿using System;
 
-namespace MyApplication
+public class MathOperations
 {
-    class Program
+    // Method to add two integers
+    public int Addition(int a, int b)
     {
-        static int PlusMethod(int x, int y)
-        {
-            return x + y;
-        }
+        return a + b;
+    }
 
-        static double PlusMethod(double x, double y)
-        {
-            return x + y;
-        }
+    // Overloaded method to add two doubles
+    public double Addition(double a, double b)
+    {
+        return a + b;
+    }
+}
 
-        static void Main(string[] args)
-        {
-            int myNum1 = PlusMethod(8, 5);
-            double myNum2 = PlusMethod(4.3, 6.26);
-            Console.WriteLine("Int: " + myNum1);
-            Console.WriteLine("Double: " + myNum2);
-        }
+public class Program
+{
+    static void Main()
+    {
+        MathOperations ops = new MathOperations();
+
+        Console.WriteLine(ops.Addition(22, 34));           // Calls the first Add method
+        //Console.WriteLine(math.Addition(2, 3, 4));        // Calls the second Add method
+        Console.WriteLine(ops.Addition(2.512, 3.71386));       // Calls the third Add method
     }
 }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ClassesAndObjectss.props" />
+</Project>

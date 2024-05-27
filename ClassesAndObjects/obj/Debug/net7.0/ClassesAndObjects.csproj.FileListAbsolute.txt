@@ -1,0 +1,5 @@
+/Users/balajisivakumar/Desktop/CSharp/ConsoleApp1/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.csproj.AssemblyReference.cache
+/Users/balajisivakumar/Desktop/CSharp/ConsoleApp1/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balajisivakumar/Desktop/CSharp/ConsoleApp1/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/balajisivakumar/Desktop/CSharp/ConsoleApp1/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/balajisivakumar/Desktop/CSharp/ConsoleApp1/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
